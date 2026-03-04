@@ -15,4 +15,4 @@ El dataset contiene información sobre despidos en empresas tecnológicas.
 | date                  | Fecha del despido                    |
 | stage                 | Etapa de la empresa (Startup, etc.)  |
 | country               | País                                 |
-| funds_raised_millions | Capital levantado                    |
+| funds_raised_millions | Fondos                               |
