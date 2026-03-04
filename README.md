@@ -1,8 +1,10 @@
 Tech Companies Layoffs — Data Cleaning & Exploratory Analysis
+
 Análisis de despidos en empresas tecnológicas utilizando PostgreSQL y SQL avanzado.
 El proyecto se centra en limpieza de datos, transformación y análisis exploratorio (EDA) para identificar tendencias en layoffs por empresa, industria, país y tiempo.
 
 El dataset contiene información sobre despidos en empresas tecnológicas.
+
 | Column                | Description                          |
 | --------------------- | ------------------------------------ |
 | company               | Nombre de la empresa                 |
